@@ -1,0 +1,15 @@
+﻿.image1 {
+	object-fit: fill;
+	
+}
+
+.blur {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 400px;
+	background-color: rgba(255, 255, 255, 0.4);
+	box-shadow: rgba(0, 0, 0, 0.1) 0 1px 2px;
+	filter: blur(10px);
+}

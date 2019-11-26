@@ -1,0 +1,5 @@
+﻿.image1 {
+	object-fit: contain;
+	-webkit-filter: blur(50px);
+
+}
